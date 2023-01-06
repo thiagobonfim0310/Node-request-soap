@@ -1,0 +1,11 @@
+{
+  "name": "request-soap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "easy-soap-request": "^5.2.0",
+    "jsontoxml": "^1.0.1",
+    "xml2js": "^0.4.23"
+  }
+}
